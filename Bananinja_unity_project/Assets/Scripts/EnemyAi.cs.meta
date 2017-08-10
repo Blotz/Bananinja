@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 195fab444a5edc948ab518dc21ef40bd
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - target: {fileID: 400104, guid: ed0c5f7eb09478044a96050d8e4fcb3c, type: 2}
+  - clipRunAttack: {instanceID: 0}
+  - clipIdle: {instanceID: 0}
+  - clipRun: {instanceID: 0}
+  - clipIdleAttack: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
